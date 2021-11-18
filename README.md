@@ -6,7 +6,7 @@
 - 😄 Entusiasta na área de Desenvolvimento Web
 <div align="center">
   <a href="https://github.com/Paulo-vitorCS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-vitorCS&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-vitorCS&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-vitorCS&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
