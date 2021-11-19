@@ -18,6 +18,7 @@
   <img align = "center" alt = "Paulo-Haskell" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
   <img align = "center" alt = "Paulo-C" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Paulo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
+  <img align="right" alt="Paulo-pic" height="150" style="border-radius:50px;" src="https://github.com/Paulo-vitorCS/Paulo-vitorCS/blob/main/me-cartoon.png">
 </div>
 <br><br>
 <div align="center">
