@@ -1,9 +1,8 @@
 ### Olá! Me chamo Paulo Vitor 👋
-- 🔭 Atualmente estudando Ciência da Computação na UFU
-- 🌱 Iniciei os estudos na área de Deep Learning para classificação de imagens dinâmicas
-- 🌱 Estudando a biblioteca PyTorch de tensores otimizada para deep learning do Python 
+- 🔭 Atualmente estudando Ciência da Computação na UFU e trabalhando na [Algar Telecom](https://algartelecom.com.br)
+- 🌱 Atualmente aprimorando meus conhecimentos em **Python** e aprendendo sobre **RPA-Python** 
 - 📫 E-mail para contato: paulo.vitorcs@hotmail.com
-- 😄 Entusiasta na área de Desenvolvimento Web
+- 😄 Entusiasta na área de Desenvolvimento de Software, automatização de tarefas e ciência de dados.
 ##
 <div align="center">
   <a href="https://github.com/Paulo-vitorCS">
