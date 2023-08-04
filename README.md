@@ -1,6 +1,6 @@
 ### Olá! Me chamo Paulo Vitor 👋
 - 🔭 Atualmente estudando Ciência da Computação na UFU e trabalhando na [Algar Telecom](https://algartelecom.com.br)
-- 🌱 Atualmente aprimorando meus conhecimentos em **Python** e aprendendo sobre **RPA-Python** 
+- 🌱 Atualmente aprimorando meus conhecimentos em **Java** e aprendendo sobre ferramentas para o desenvolvimento **Back-End Java** 
 - 📫 E-mail para contato: paulo.vitorcs@hotmail.com
 - 😄 Entusiasta na área de Desenvolvimento de Software, automatização de tarefas e ciência de dados.
 ##
